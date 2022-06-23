@@ -1,16 +1,23 @@
-## 👋 Olá, Seja Bem vindo ! Eu me chamo Arthur Catelani
-    📌 Atualmente eu estou estudando para me tornar um Desenvolvedor Web.
-    📚 No momento estudo HTML, CSS e JS para Front e PHP para Back End.
+<h1 align="center">Hello welcome! My name is Arthur Catelani 👋</h1>
 
-<div>
-    <a href="https://github.com/arthydev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthydev&langs_count=7&theme=synthwave"/>
+###
+
+<p align="left">🇧🇷 - I'm from Minas Gerais, Brazil.<br>📌- I am currently studying to become a Web Developer.<br>    📚- I study HTML, CSS and JS for Front End, and for Back End I study languages ​​like JS (Node.js), PHP and Python.</p>
+
+###
+
+<h2 align="center">I work with 👇</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="auto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="HTML" height="30" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" height="30" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="PHP" height="30" width="auto" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div>
+###
 	
