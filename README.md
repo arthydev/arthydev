@@ -1,8 +1,8 @@
-<h1 align="center"> Olá, seja bem-vindo👋 Conheça um pouco sobre mim</h1>
+<h3 align="center"> Olá, seja bem-vindo👋 Conheça um pouco sobre mim</h3>
 
 ###
-
-<p align="left">🎓 - Cursando Análise e Desenvolvimento de Sistemas pela PUC Minas.<br>📚- Trabalho com JavaScript, Node.JS, PHP, C# e Python.<br>⁉️ - Tenho interesse nas áreas de Desenvolvimento Back-End, Cibersegurança e Dados</p>
+<h1>Desenvolvedor Back-End</h1>
+<p align="left">🎓 - Cursando Análise e Desenvolvimento de Sistemas pela PUC Minas.<br>📚- Trabalho com JavaScript, Node.JS, PHP, C#, Python e Java.<br>⁉️</p>
 
 ###
 
