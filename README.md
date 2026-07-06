@@ -1,18 +1,40 @@
-<h3 align="center"> Olá, seja bem-vindo👋 Conheça um pouco sobre mim</h3>
+<table>
+<tr>
+<td width="64%">
 
-###
-<h1>Desenvolvedor Back-End</h1>
-<p align="left">🎓 - Cursando Análise e Desenvolvimento de Sistemas pela PUC Minas.<br>📚- Trabalho com JavaScript, Node.JS, PHP, C#, Python e Java.<br>⁉️</p>
+<h3>Olá, seja bem-vindo! 👋</h3>
 
-###
+<h1>Arthur Catelani</h1>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="node.js logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="c# logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-</div>
+<strong>Desenvolvedor Back-End | Sistemas, APIs e Automações</strong>
 
-###
-	
+<br><br>
+
+Desenvolvedor focado em criar soluções digitais para empresas: sistemas internos, APIs, integrações, automações e aplicações web sob medida.
+
+<br><br>
+
+🎓 Cursando <strong>Engenharia de Software</strong> pela Newton Paiva Wyden.<br>
+💼 Experiência com desenvolvimento de aplicações, integrações, infraestrutura e automação de processos.<br>
+🚀 Transformando ideias e processos manuais em soluções práticas, escaláveis e fáceis de usar.
+
+<br><br>
+<a href="https://www.linkedin.com/in/arthur-catelani">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://catelani.dev.br">
+<img src="https://img.shields.io/badge/ACESSE-catelani.dev.br-2563EB?style=for-the-badge&logo=apachearrow&logoColor=white" alt="Portfólio">
+</a>
+
+</td>
+
+<td width="40%" align="center" valign="top">
+<img
+  src="https://demo.catelani.dev.br/imagens/git-cat.png"
+  width="100%"
+  alt="Imagem de perfil Arthur Catelani"
+>
+</td>
+</tr>
+</table>
